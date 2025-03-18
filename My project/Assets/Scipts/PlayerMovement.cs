@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
     private int jumpCount = 0;
-    private int maxJumps = 2; // 允许二段跳
+    private int maxJumps = 2; 
 
     void Start()
     {

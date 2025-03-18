@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Apps\\1GD\\My project\\Assets\\Scipts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scipts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Apps\\1GD\\My project\\Assets\\Scipts\\Collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scipts\\Collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Apps\\1GD\\My project\\Assets\\Scipts\\GameTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scipts\\GameTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Apps\\1GD\\My project\\Assets\\Scipts\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\GameTimer.cs",
+              "ToolTip": "C:\\Apps\\1GD\\My project\\Assets\\Scipts\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\Scipts\\GameTimer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:09:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "C:\\Apps\\1GD\\My project\\Assets\\Scipts\\Collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\Collectible.cs",
+              "ToolTip": "C:\\Apps\\1GD\\My project\\Assets\\Scipts\\Collectible.cs",
+              "RelativeToolTip": "Assets\\Scipts\\Collectible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:25:14.068Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Assets\\Scipts\\PlayerMovement.cs",
               "ToolTip": "C:\\Apps\\1GD\\My project\\Assets\\Scipts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scipts\\PlayerMovement.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAqwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T07:03:43.531Z",
               "EditorCaption": ""
